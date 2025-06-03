@@ -54,4 +54,4 @@
 
 ## 🧰 Используемые библиотеки
 
-pandas | numpy | matplotlib | seaborn | scikit-learn | catboost | lightgbm | xgboost | optuna | scipy | tqdm | re
+*pandas | numpy | matplotlib | seaborn | scikit-learn | catboost | lightgbm | xgboost | optuna | scipy | tqdm | re*
